@@ -1,17 +1,17 @@
 [
     {
       "id": 1,
-      "title": "Première étape",
+      "title": "1: Première étape",
       "content": "Choisissez la station ou vous souhaitez réserver un vélo, afin de vérifier s'il en reste de disponible"
     },
     {
       "id": 2,
-      "title": "Deuxième étape",
+      "title": "2: Deuxième étape",
       "content": "Un fois votre station choisie, vous devrez entrer les informations demandées afin de d'effectuer une réservation puis, cliquez sur le bouton réserver."
     },
     {
       "id": 3,
-      "title": "Troisième étape",
+      "title": "3: Troisième étape",
       "content": "Une fois la réservation effectuée, vous n'avez plus qu'à vérifier les informations, puis signer dans l'encart réservé à cet effet et cliquer sur le bouton valider. Une fois validée, votre réservation reste effective durant 20 minutes afin que vous puissiez le récupérer à la station. Bonne route !"
     }
   ]
