@@ -2,16 +2,19 @@
     {
       "id": 1,
       "title": "1: Séléctionner",
-      "content": "Choisissez la station ou vous souhaitez réserver un vélo, afin de vérifier s'il en reste de disponible"
+      "content": "Choisissez la station ou vous souhaitez réserver un vélo, afin de vérifier s'il en reste de disponible",
+      "image": "https://cdn.pixabay.com/photo/2016/08/07/19/06/paris-1576893_960_720.jpg"
     },
     {
       "id": 2,
       "title": "2: Réserver",
-      "content": "Un fois votre station choisie, vous devrez entrer les informations demandées afin de d'effectuer une réservation puis, cliquez sur le bouton réserver."
+      "content": "Un fois votre station choisie, vous devrez entrer les informations demandées afin de d'effectuer une réservation puis, cliquez sur le bouton réserver.",
+      "image": "https://static.lpnt.fr/images/2017/05/12/8465185lpw-8513060-leparisien12x12cmindd-jpg_4285213.jpg"
     },
     {
       "id": 3,
       "title": "3: Circuler",
-      "content": "Une fois la réservation effectuée, vous n'avez plus qu'à vérifier les informations, signer dans l'encart réservé à cet effet puis cliquer sur le bouton valider. Une fois validée, votre réservation restera effective durant 20 minutes pour que vous puissiez récupérer le vélo à la station. Bonne route et n'oubliez pas de porter un casque et l'équipement adéquat !"
+      "content": "Une fois la réservation effectuée, vous n'avez plus qu'à vérifier les informations, signer dans l'encart réservé à cet effet puis cliquer sur le bouton valider. Une fois validée, votre réservation restera effective durant 20 minutes pour que vous puissiez récupérer le vélo à la station. Bonne route et n'oubliez pas de porter un casque et l'équipement adéquat !",
+      "image": "https://blog.velib-metropole.fr/wp-content/uploads/2016/11/velib-metro1.jpg"
     }
   ]
